@@ -1,0 +1,5 @@
+{
+  "shareCredentialsVersion": 1,
+  "endpoint": "http://10.34.10.3:8080/delta-sharing/",
+  "bearerToken": "faaie590d541265bcab1f2de9813274bf233"
+}
